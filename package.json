@@ -6,6 +6,7 @@
     "name": "Artem Sapegin",
     "url": "http://sapegin.me/"
   },
+  "version": "4.3.3-3",
   "repository": {
     "type": "git",
     "url": "https://github.com/styleguidist/react-styleguidist.git"
