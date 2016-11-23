@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'lodash';
 import isFinite from 'lodash/isFinite';
 import ReactDOM from 'react-dom';
 import {
@@ -17,7 +16,6 @@ import './styles.css';
 
 // Make libraries available in examples
 global.React = React;
-global._ = _;
 
 let codeKey = 0;
 
